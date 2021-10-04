@@ -1,0 +1,17 @@
+npm i express
+npm i typescript -D
+npm i @types/express -D
+npm i morgan
+npm i cors
+npm i @types/cors @types/morgan -D
+npm i typeorm
+npx tsc --init
+npm install --save-dev nodemon
+npm install reflect-metadata --save
+npm install @types/node --save-dev
+npm install mysql --save 
+npm i tsc-watch -D
+npm install -- save swagger-ui-express
+npm install --save @types/swagger-ui-express
+npm install swagger-jsdoc --save
+npm install --save @types/swagger-jsdoc
